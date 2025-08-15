@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "BaseNeueRegular";
+    src: url("../fonts/BaseNeue-Regular.ttf");
+}
+
+@font-face {
+    font-family: "BaseNeueBold";
+    src: url("../fonts/BaseNeue-Bold.ttf");
+}
